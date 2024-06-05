@@ -22,7 +22,7 @@
 #### Hard Requirements:
 1. **Meta Header:**
    - Add meta headers for SEO purposes.
-   - Ensure that each blog post has a unique meta title and description.
+   - Esure that each blog post has a unique meta titlne and description.
 
 
 ### JSON Data
