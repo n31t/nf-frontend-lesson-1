@@ -1,4 +1,4 @@
-### Homework
+## Homework
 
 #### Day 1 Homework: Blog Application Using Fake Data from JSON
 
@@ -27,7 +27,7 @@
 
 ### JSON Data
 
-- The JSON or API for fake data will be provided separately. Just download it from 
+- The JSON or API for fake data will be provided separately. Just download it from <br>data/data.json</br>
 ---
 
 <p align="center">
