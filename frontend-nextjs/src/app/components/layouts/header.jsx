@@ -11,6 +11,7 @@ const Header = () => {
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEF5dxWIHP0mY4wRxN6w8P21Q2g4ifDLCkw&s" className="w-14 h-14 text-white p-2 bg-black rounded-full" alt="logo" />
       <span class="ml-3 text-xl">!n blog
       </span>
+      <span class="ml-3 text-xl">!n blog</span>
     </Link>
     <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
       <Link href="/home" class="mr-5 hover:text-gray-900">Home</Link>
