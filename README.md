@@ -1,3 +1,35 @@
+### Homework
+
+#### Day 1 Homework: Blog Application Using Fake Data from JSON
+
+#### Basic Requirements:
+1. **Adaptive Layout:**
+   - Implement a responsive layout with a header and footer.
+   - Ensure the layout adapts well to different screen sizes.
+
+2. **Setup Routes:**
+   - Create basic routes for the blog application, such as home, about, and blog.
+
+#### Medium Requirements:
+1. **Dynamic Routes:**
+   - Implement dynamic routing to handle individual blog posts.
+   - Ensure that each post is accessible through a unique URL.
+
+2. **Slug Processing:**
+   - Process slugs to create user-friendly URLs for each blog post.
+   - Ensure that the slugs are properly encoded and decoded.
+
+#### Hard Requirements:
+1. **Meta Header:**
+   - Add meta headers for SEO purposes.
+   - Ensure that each blog post has a unique meta title and description.
+
+
+### JSON Data
+
+- The JSON or API for fake data will be provided separately. Just download it from 
+---
+
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
