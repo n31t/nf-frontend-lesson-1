@@ -9,7 +9,7 @@ export default function BlogPage() {
         
         <div className="h-screen">
             <Header />
-            <div className="flex flex-wrap justify-center p-8 space-x-8 space-y-8">
+            <div className="flex flex-wrap justify-center p-6 space-x-8 space-y-8">
             {data.map((post, index) => (
                 <PostCard key={index} post={post}/>
             ))}

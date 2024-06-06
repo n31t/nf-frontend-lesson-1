@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const PostCard = ({ post }) => {
     return (
-        <div className="sm:w-full md:w-64 h-auto rounded overflow-hidden shadow-lg">
+        <div className="sm:w-full md:w-64 h-auto rounded overflow-hidden shadow-lg ">
             <div className="px-6 py-4">
                 <Link href={`/blog/${post.id}`}>
                     <div className="font-bold text-xl mb-2">{post.title}</div>
